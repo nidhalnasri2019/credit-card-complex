@@ -1,0 +1,45 @@
+.container{
+display:flex;
+justify-content: space-around
+}
+.row-2{
+    margin-top: -55%;
+    color: white;
+    margin-left: 3%;
+    font-size: 19px;
+}
+.credit-mc{
+    border-radius: 25px;
+    height: 305px;
+}
+.cre{
+    height: 88px;
+    margin-top: -22%;
+    margin-left: 79%;
+}
+.container{
+    margin-top:4%
+}
+.input{
+    width: 100%;
+    height: 27px;
+    font-size: 15px;
+    margin-bottom: 6%;
+    background-color: aqua;
+}
+.input-2{
+    width: 32%;
+    height: 27px;
+    font-size: 15px;
+    margin-bottom: 6%;
+    background-color: aqua;
+}
+.row-3{
+    margin-right: 23%;
+}
+.inputs{
+    display:flex
+}
+#year{
+    margin-left: -54%;
+}
